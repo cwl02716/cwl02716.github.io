@@ -1,0 +1,21 @@
+// 側邊欄座右銘（樣式）
+.left-sidebar .site-quote {
+    margin: 1.2rem 0 0;
+    padding: 0 0 0 1rem;
+    border-left: 3px solid var(--accent-color);
+    font-size: 1.3rem;
+    line-height: 1.6;
+    color: var(--card-text-color-secondary);
+
+    p {
+        margin: 0;
+        font-style: italic;
+    }
+
+    cite {
+        display: block;
+        margin-top: 0.4rem;
+        font-style: normal;
+        font-size: 1.2rem;
+    }
+}

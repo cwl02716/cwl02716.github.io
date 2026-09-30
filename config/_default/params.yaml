@@ -14,6 +14,10 @@ sidebar:
   emoji: "📝"
   subtitle: 技術文章、學習筆記與面試心得
   avatar: img/Justin.png
+  # 側邊欄座右銘：不想顯示就把整段刪掉
+  quote:
+    text: Keep your eyes on the stars, and your feet on the ground.
+    author: Theodore Roosevelt
 
 article:
   math: false
