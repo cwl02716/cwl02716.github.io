@@ -1,7 +1,7 @@
 baseURL: https://cwl02716.github.io/
 locale: zh-hant-tw
 defaultContentLanguage: zh-hant-tw
-title: cwl02716 的技術筆記
+title: Avril 的技術筆記
 # 中文內容需開啟，摘要與字數統計才會正確
 hasCJKLanguage: true
 enableGitInfo: true
