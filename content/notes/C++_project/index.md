@@ -9,7 +9,7 @@ tags:
     - Memory management
     - C++
     - library
-image: newspaper.jpg
+image: newspaper.png
 ---
 
 > C++ 這兩塊只看書很難真正懂，要親手寫、親手踩坑才會內化。
